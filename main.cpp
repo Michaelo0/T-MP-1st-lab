@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  First_lab
-//
-//  Created by Imac on 06.06.16.
-//  Copyright © 2016 Imac. All rights reserved.
-//
+
 
 #include <fstream>
 #include <iostream>
